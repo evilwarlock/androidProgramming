@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GeoQuiz/build/pre-dexed/debug/classes-2f55ea6056a6c784b20f19f8b51626ccc1d89132.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GeoQuiz/build/pre-dexed/debug/support-v4-19.1.0-ae7a069dc8ffd3629a5ca7747bf6924b2bf54929.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
